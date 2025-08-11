@@ -1,3 +1,16 @@
+# data to get the SST https://neo.gsfc.nasa.gov/view.php?datasetId=MYD28M
+
+# data to get bathemtry https://neo.gsfc.nasa.gov/view.php?datasetId=GEBCO_BATHY
+
+# data to get Slope and Aspect https://portal.opentopography.org/raster?opentopoID=OTSDEM.122023.4326.1
+
+# data to get Traffic https://emodnet.ec.europa.eu/geoviewer/
+
+# data to get mld  https://podaac.jpl.nasa.gov/dataset/ECCO_L4_MIXED_LAYER_DEPTH_05DEG_MONTHLY_V4R4
+
+# data for Salinity https://www.metoffice.gov.uk/hadobs/en4/download-en4-2-2.html
+
+
 
 #######################################covariates#########################################
 library(terra)
